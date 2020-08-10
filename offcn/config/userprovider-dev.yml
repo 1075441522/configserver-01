@@ -1,2 +1,3 @@
 server:
   port: 8050
+version: userprovider-01
